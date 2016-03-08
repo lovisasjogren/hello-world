@@ -1,0 +1,50 @@
+h1 {
+	color:white;
+	font-family:Helvetica;
+	font-size:1.5em;
+background-color:green;
+}
+
+p{
+	color:green;
+}
+#first {
+	color:blue;
+}
+
+.interesting {
+	color:orange;
+}
+ul li.interesting {
+	font-stye:italic;
+}
+
+h2 {
+	color:rgb(255, 0, 255);
+}
+submitbutton {
+	position:relative;
+	top:-5px;
+	left:20px;
+}
+
+td {
+	padding:15px; 
+}
+
+p#first {
+	background-color:
+	green;
+	padding:5px;
+}
+
+ol li {
+	border-width: 5px;
+	border-style:dotted;
+	border-color:red;
+	color:blue;
+}
+
+ID "first"
+
+<!-- = to make a comment on the html site --> 
